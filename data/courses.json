@@ -1,0 +1,722 @@
+[
+  {
+    "CourseTitle": "Introduction to Programming",
+    "Difficulty": "Beginner",
+    "Stream": "CSE",
+    "SubStream": "Development"
+  },
+  {
+    "CourseTitle": "Advanced Programming",
+    "Difficulty": "Intermediate",
+    "Stream": "CSE",
+    "SubStream": "Development"
+  },
+  {
+    "CourseTitle": "Database Management Systems",
+    "Difficulty": "Intermediate",
+    "Stream": "CSE",
+    "SubStream": "Development"
+  },
+  {
+    "CourseTitle": "Fundamentals of Computer Security",
+    "Difficulty": "Intermediate",
+    "Stream": "CSE",
+    "SubStream": "Development"
+  },
+  {
+    "CourseTitle": "Distributed Systems",
+    "Difficulty": "Advanced",
+    "Stream": "CSE",
+    "SubStream": "Development"
+  },
+  {
+    "CourseTitle": "Software Development using Open Source",
+    "Difficulty": "Advanced",
+    "Stream": "CSE",
+    "SubStream": "Development"
+  },
+  {
+    "CourseTitle": "Data Structures and Algorithms",
+    "Difficulty": "Intermediate",
+    "Stream": "CSE",
+    "SubStream": "Algorithms"
+  },
+  {
+    "CourseTitle": "Algorithm Design and Analysis",
+    "Difficulty": "Intermediate",
+    "Stream": "CSE",
+    "SubStream": "Algorithms"
+  },
+  {
+    "CourseTitle": "Computer Graphics",
+    "Difficulty": "Advanced",
+    "Stream": "CSE",
+    "SubStream": "Algorithms"
+  },
+  {
+    "CourseTitle": "Randomized Algorithms",
+    "Difficulty": "Advanced",
+    "Stream": "CSE",
+    "SubStream": "Algorithms"
+  },
+  {
+    "CourseTitle": "Introduction to Graduate Algorithms",
+    "Difficulty": "Advanced",
+    "Stream": "CSE",
+    "SubStream": "Algorithms"
+  },
+  {
+    "CourseTitle": "Discrete Mathematics",
+    "Difficulty": "Beginner",
+    "Stream": "CSE",
+    "SubStream": "Logic"
+  },
+  {
+    "CourseTitle": "Decision Procedures",
+    "Difficulty": "Advanced",
+    "Stream": "CSE",
+    "SubStream": "Logic"
+  },
+  {
+    "CourseTitle": "Computer Architecture",
+    "Difficulty": "Beginner",
+    "Stream": "CSE",
+    "SubStream": "Computer Fundamentals"
+  },
+  {
+    "CourseTitle": "Computer Organization",
+    "Difficulty": "Beginner",
+    "Stream": "CSE",
+    "SubStream": "Computer Fundamentals"
+  },
+  {
+    "CourseTitle": "Operating Systems",
+    "Difficulty": "Intermediate",
+    "Stream": "CSE",
+    "SubStream": "Computer Fundamentals"
+  },
+  {
+    "CourseTitle": "Computer Networks",
+    "Difficulty": "Intermediate",
+    "Stream": "CSE",
+    "SubStream": "Computer Fundamentals"
+  },
+  {
+    "CourseTitle": "Compilers",
+    "Difficulty": "Advanced",
+    "Stream": "CSE",
+    "SubStream": "Computer Fundamentals"
+  },
+  {
+    "CourseTitle": "Cloud Computing",
+    "Difficulty": "Advanced",
+    "Stream": "CSE",
+    "SubStream": "Computer Fundamentals"
+  },
+  {
+    "CourseTitle": "Artificial Intelligence",
+    "Difficulty": "Intermediate",
+    "Stream": "CSE",
+    "SubStream": "AI"
+  },
+  {
+    "CourseTitle": "Machine Learning",
+    "Difficulty": "Intermediate",
+    "Stream": "CSE",
+    "SubStream": "AI"
+  },
+  {
+    "CourseTitle": "Collaborative Filtering",
+    "Difficulty": "Advanced",
+    "Stream": "CSE",
+    "SubStream": "AI"
+  },
+  {
+    "CourseTitle": "Computer Vision",
+    "Difficulty": "Advanced",
+    "Stream": "CSE",
+    "SubStream": "AI"
+  },
+  {
+    "CourseTitle": "Big Data Analytics",
+    "Difficulty": "Advanced",
+    "Stream": "CSE",
+    "SubStream": "AI"
+  },
+  {
+    "CourseTitle": "Data Mining",
+    "Difficulty": "Advanced",
+    "Stream": "CSE",
+    "SubStream": "AI"
+  },
+  {
+    "CourseTitle": "Reinforcement Learning",
+    "Difficulty": "Advanced",
+    "Stream": "CSE",
+    "SubStream": "AI"
+  },
+  {
+    "CourseTitle": "Digital Circuits",
+    "Difficulty": "Beginner",
+    "Stream": "ECE",
+    "SubStream": "Circuits"
+  },
+  {
+    "CourseTitle": "Circuit Theory and Devices",
+    "Difficulty": "Beginner",
+    "Stream": "ECE",
+    "SubStream": "Circuits"
+  },
+  {
+    "CourseTitle": "RF Circuit Design",
+    "Difficulty": "Intermediate",
+    "Stream": "ECE",
+    "SubStream": "Circuits"
+  },
+  {
+    "CourseTitle": "Low Voltage Analog Circuit Design",
+    "Difficulty": "Advanced",
+    "Stream": "ECE",
+    "SubStream": "Circuits"
+  },
+  {
+    "CourseTitle": "Analog CMOS Circuit Design",
+    "Difficulty": "Advanced",
+    "Stream": "ECE",
+    "SubStream": "Circuits"
+  },
+  {
+    "CourseTitle": "Integrated Circuit Fabrication",
+    "Difficulty": "Advanced",
+    "Stream": "ECE",
+    "SubStream": "Circuits"
+  },
+  {
+    "CourseTitle": "Basic Electronics",
+    "Difficulty": "Beginner",
+    "Stream": "ECE",
+    "SubStream": "Electronics"
+  },
+  {
+    "CourseTitle": "Integrated Electronics",
+    "Difficulty": "Advanced",
+    "Stream": "ECE",
+    "SubStream": "Electronics"
+  },
+  {
+    "CourseTitle": "System on Chip Design and Test",
+    "Difficulty": "Advanced",
+    "Stream": "ECE",
+    "SubStream": "Electronics"
+  },
+  {
+    "CourseTitle": "Principles of Communication Systems",
+    "Difficulty": "Beginner",
+    "Stream": "ECE",
+    "SubStream": "Communication Systems"
+  },
+  {
+    "CourseTitle": "Mobile Communications",
+    "Difficulty": "Beginner",
+    "Stream": "ECE",
+    "SubStream": "Communication Systems"
+  },
+  {
+    "CourseTitle": "Fields and Waves",
+    "Difficulty": "Intermediate",
+    "Stream": "ECE",
+    "SubStream": "Communication Systems"
+  },
+  {
+    "CourseTitle": "Signals and Systems",
+    "Difficulty": "Intermediate",
+    "Stream": "ECE",
+    "SubStream": "Communication Systems"
+  },
+  {
+    "CourseTitle": "Wireless System Implementation",
+    "Difficulty": "Intermediate",
+    "Stream": "ECE",
+    "SubStream": "Communication Systems"
+  },
+  {
+    "CourseTitle": "Satellite Navigation and Sensor Fusion",
+    "Difficulty": "Advanced",
+    "Stream": "ECE",
+    "SubStream": "Communication Systems"
+  },
+  {
+    "CourseTitle": "Wireless Communication Evolution from 3G to 5G",
+    "Difficulty": "Advanced",
+    "Stream": "ECE",
+    "SubStream": "Communication Systems"
+  },
+  {
+    "CourseTitle": "Antennas Theory and Design",
+    "Difficulty": "Advanced",
+    "Stream": "ECE",
+    "SubStream": "Communication Systems"
+  },
+  {
+    "CourseTitle": "Robotics",
+    "Difficulty": "Intermediate",
+    "Stream": "ECE",
+    "SubStream": "Robotics"
+  },
+  {
+    "CourseTitle": "Nonlinear and Adaptive Control of Robotic Systems",
+    "Difficulty": "Advanced",
+    "Stream": "ECE",
+    "SubStream": "Robotics"
+  },
+  {
+    "CourseTitle": "Quantum Materials and Devices",
+    "Difficulty": "Intermediate",
+    "Stream": "ECE",
+    "SubStream": "Quantum Computing"
+  },
+  {
+    "CourseTitle": "Quantum Mechanics",
+    "Difficulty": "Intermediate",
+    "Stream": "ECE",
+    "SubStream": "Quantum Computing"
+  },
+  {
+    "CourseTitle": "Tomographic Imaging",
+    "Difficulty": "Advanced",
+    "Stream": "ECE",
+    "SubStream": "Quantum Computing"
+  },
+  {
+    "CourseTitle": "Visual Design and Communication",
+    "Difficulty": "Beginner",
+    "Stream": "DES",
+    "SubStream": "Graphic Design"
+  },
+  {
+    "CourseTitle": "Design Processes and Perspectives",
+    "Difficulty": "Beginner",
+    "Stream": "DES",
+    "SubStream": "Graphic Design"
+  },
+  {
+    "CourseTitle": "Animation and Graphics",
+    "Difficulty": "Beginner",
+    "Stream": "DES",
+    "SubStream": "Graphic Design"
+  },
+  {
+    "CourseTitle": "2D Animation",
+    "Difficulty": "Beginner",
+    "Stream": "DES",
+    "SubStream": "Animation"
+  },
+  {
+    "CourseTitle": "Introduction to 3D Production Design for Animation and Games",
+    "Difficulty": "Intermediate",
+    "Stream": "DES",
+    "SubStream": "Animation"
+  },
+  {
+    "CourseTitle": "3D Animation Filmmaking",
+    "Difficulty": "Intermediate",
+    "Stream": "DES",
+    "SubStream": "Animation"
+  },
+  {
+    "CourseTitle": "Digital Audio & Video Production Workflow",
+    "Difficulty": "Advanced",
+    "Stream": "DES",
+    "SubStream": "Animation"
+  },
+  {
+    "CourseTitle": "Introduction to Human-Computer Interaction",
+    "Difficulty": "Beginner",
+    "Stream": "DES",
+    "SubStream": "HCI"
+  },
+  {
+    "CourseTitle": "Ergonomics",
+    "Difficulty": "Intermediate",
+    "Stream": "DES",
+    "SubStream": "HCI"
+  },
+  {
+    "CourseTitle": "Human-Centred Artificial Intelligence",
+    "Difficulty": "Advanced",
+    "Stream": "DES",
+    "SubStream": "HCI"
+  },
+  {
+    "CourseTitle": "Design Futures",
+    "Difficulty": "Advanced",
+    "Stream": "DES",
+    "SubStream": "HCI"
+  },
+  {
+    "CourseTitle": "Advanced topics in Human Centered Computing",
+    "Difficulty": "Advanced",
+    "Stream": "DES",
+    "SubStream": "HCI"
+  },
+  {
+    "CourseTitle": "Prototyping Interactive Systems",
+    "Difficulty": "Beginner",
+    "Stream": "DES",
+    "SubStream": "Product Design"
+  },
+  {
+    "CourseTitle": "Design of Interactive Systems",
+    "Difficulty": "Intermediate",
+    "Stream": "DES",
+    "SubStream": "Product Design"
+  },
+  {
+    "CourseTitle": "Inclusive Design, Universal Design & Accessibility",
+    "Difficulty": "Intermediate",
+    "Stream": "DES",
+    "SubStream": "Product Design"
+  },
+  {
+    "CourseTitle": "Wearable Applications, Research, Devices, Interactions",
+    "Difficulty": "Advanced",
+    "Stream": "DES",
+    "SubStream": "Product Design"
+  },
+  {
+    "CourseTitle": "Applications of Geometry",
+    "Difficulty": "Beginner",
+    "Stream": "MTH",
+    "SubStream": "Geometry"
+  },
+  {
+    "CourseTitle": "Point Set Topology",
+    "Difficulty": "Advanced",
+    "Stream": "MTH",
+    "SubStream": "Geometry"
+  },
+  {
+    "CourseTitle": "Introduction to Riemannian Geometry with Some Applications",
+    "Difficulty": "Advanced",
+    "Stream": "MTH",
+    "SubStream": "Geometry"
+  },
+  {
+    "CourseTitle": "Probability and Statistics",
+    "Difficulty": "Beginner",
+    "Stream": "MTH",
+    "SubStream": "Probability"
+  },
+  {
+    "CourseTitle": "Measure and Probability Theory",
+    "Difficulty": "Intermediate",
+    "Stream": "MTH",
+    "SubStream": "Probability"
+  },
+  {
+    "CourseTitle": "Statistical Inference",
+    "Difficulty": "Advanced",
+    "Stream": "MTH",
+    "SubStream": "Probability"
+  },
+  {
+    "CourseTitle": "Stochastic Processes and Applications",
+    "Difficulty": "Advanced",
+    "Stream": "MTH",
+    "SubStream": "Probability"
+  },
+  {
+    "CourseTitle": "Introduction to Mathematical Logic",
+    "Difficulty": "Beginner",
+    "Stream": "MTH",
+    "SubStream": "Logic"
+  },
+  {
+    "CourseTitle": "Linear Algebra",
+    "Difficulty": "Beginner",
+    "Stream": "MTH",
+    "SubStream": "Algebra"
+  },
+  {
+    "CourseTitle": "Linear Optimization",
+    "Difficulty": "Beginner",
+    "Stream": "MTH",
+    "SubStream": "Algebra"
+  },
+  {
+    "CourseTitle": "Abstract Algebra I",
+    "Difficulty": "Intermediate",
+    "Stream": "MTH",
+    "SubStream": "Algebra"
+  },
+  {
+    "CourseTitle": "Convex Optimization",
+    "Difficulty": "Intermediate",
+    "Stream": "MTH",
+    "SubStream": "Algebra"
+  },
+  {
+    "CourseTitle": "Algebraic Number Theory",
+    "Difficulty": "Intermediate",
+    "Stream": "MTH",
+    "SubStream": "Algebra"
+  },
+  {
+    "CourseTitle": "Abstract Algebra II",
+    "Difficulty": "Advanced",
+    "Stream": "MTH",
+    "SubStream": "Algebra"
+  },
+  {
+    "CourseTitle": "Advanced Linear Algebra",
+    "Difficulty": "Advanced",
+    "Stream": "MTH",
+    "SubStream": "Algebra"
+  },
+  {
+    "CourseTitle": "Introduction to Calculus",
+    "Difficulty": "Beginner",
+    "Stream": "MTH",
+    "SubStream": "Calculus"
+  },
+  {
+    "CourseTitle": "Multivariate Calculus",
+    "Difficulty": "Intermediate",
+    "Stream": "MTH",
+    "SubStream": "Calculus"
+  },
+  {
+    "CourseTitle": "Differential Equations",
+    "Difficulty": "Intermediate",
+    "Stream": "MTH",
+    "SubStream": "Calculus"
+  },
+  {
+    "CourseTitle": "Numerical Partial Differential Equations",
+    "Difficulty": "Advanced",
+    "Stream": "MTH",
+    "SubStream": "Calculus"
+  },
+  {
+    "CourseTitle": "Integral Transforms and their Applications",
+    "Difficulty": "Advanced",
+    "Stream": "MTH",
+    "SubStream": "Calculus"
+  },
+  {
+    "CourseTitle": "Calculus in R^N",
+    "Difficulty": "Advanced",
+    "Stream": "MTH",
+    "SubStream": "Calculus"
+  },
+  {
+    "CourseTitle": "Variational Calculus and their Applications",
+    "Difficulty": "Advanced",
+    "Stream": "MTH",
+    "SubStream": "Calculus"
+  },
+  {
+    "CourseTitle": "Communication Skills",
+    "Difficulty": "Beginner",
+    "Stream": "SSH",
+    "SubStream": "Communication"
+  },
+  {
+    "CourseTitle": "Technical Communication",
+    "Difficulty": "Intermediate",
+    "Stream": "SSH",
+    "SubStream": "Communication"
+  },
+  {
+    "CourseTitle": "Entrepreneurial Communication",
+    "Difficulty": "Advanced",
+    "Stream": "SSH",
+    "SubStream": "Communication"
+  },
+  {
+    "CourseTitle": "Macroeconomics",
+    "Difficulty": "Beginner",
+    "Stream": "SSH",
+    "SubStream": "Economics"
+  },
+  {
+    "CourseTitle": "Microeconomics",
+    "Difficulty": "Beginner",
+    "Stream": "SSH",
+    "SubStream": "Economics"
+  },
+  {
+    "CourseTitle": "Money and Banking",
+    "Difficulty": "Beginner",
+    "Stream": "SSH",
+    "SubStream": "Economics"
+  },
+  {
+    "CourseTitle": "Foundations of Finance",
+    "Difficulty": "Beginner",
+    "Stream": "SSH",
+    "SubStream": "Economics"
+  },
+  {
+    "CourseTitle": "Game Theory",
+    "Difficulty": "Intermediate",
+    "Stream": "SSH",
+    "SubStream": "Economics"
+  },
+  {
+    "CourseTitle": "Econometrics I",
+    "Difficulty": "Intermediate",
+    "Stream": "SSH",
+    "SubStream": "Economics"
+  },
+  {
+    "CourseTitle": "Econometrics II",
+    "Difficulty": "Intermediate",
+    "Stream": "SSH",
+    "SubStream": "Economics"
+  },
+  {
+    "CourseTitle": "Valuation and Portfolio Management",
+    "Difficulty": "Advanced",
+    "Stream": "SSH",
+    "SubStream": "Economics"
+  },
+  {
+    "CourseTitle": "Behavioural Economics",
+    "Difficulty": "Advanced",
+    "Stream": "SSH",
+    "SubStream": "Economics"
+  },
+  {
+    "CourseTitle": "Introduction to Economic Analysis",
+    "Difficulty": "Advanced",
+    "Stream": "SSH",
+    "SubStream": "Economics"
+  },
+  {
+    "CourseTitle": "Derivatives and Risk Management",
+    "Difficulty": "Advanced",
+    "Stream": "SSH",
+    "SubStream": "Economics"
+  },
+  {
+    "CourseTitle": "Spatial Statistics and Spatial Econometrics",
+    "Difficulty": "Advanced",
+    "Stream": "SSH",
+    "SubStream": "Economics"
+  },
+  {
+    "CourseTitle": "Introduction to Psychology",
+    "Difficulty": "Beginner",
+    "Stream": "SSH",
+    "SubStream": "Psychology"
+  },
+  {
+    "CourseTitle": "Attention and Perception",
+    "Difficulty": "Intermediate",
+    "Stream": "SSH",
+    "SubStream": "Psychology"
+  },
+  {
+    "CourseTitle": "Learning and Memory",
+    "Difficulty": "Intermediate",
+    "Stream": "SSH",
+    "SubStream": "Psychology"
+  },
+  {
+    "CourseTitle": "Social Psychology",
+    "Difficulty": "Advanced",
+    "Stream": "SSH",
+    "SubStream": "Psychology"
+  },
+  {
+    "CourseTitle": "Cognitive Psychology",
+    "Difficulty": "Advanced",
+    "Stream": "SSH",
+    "SubStream": "Psychology"
+  },
+  {
+    "CourseTitle": "Introduction to Sociology and Anthropology",
+    "Difficulty": "Beginner",
+    "Stream": "SSH",
+    "SubStream": "Sociology"
+  },
+  {
+    "CourseTitle": "Sociological Theory",
+    "Difficulty": "Beginner",
+    "Stream": "SSH",
+    "SubStream": "Sociology"
+  },
+  {
+    "CourseTitle": "Science, Technology and Society",
+    "Difficulty": "Intermediate",
+    "Stream": "SSH",
+    "SubStream": "Sociology"
+  },
+  {
+    "CourseTitle": "Gender and Media",
+    "Difficulty": "Intermediate",
+    "Stream": "SSH",
+    "SubStream": "Sociology"
+  },
+  {
+    "CourseTitle": "Urban Sociology",
+    "Difficulty": "Intermediate",
+    "Stream": "SSH",
+    "SubStream": "Sociology"
+  },
+  {
+    "CourseTitle": "Key Concepts in Economic Sociology",
+    "Difficulty": "Advanced",
+    "Stream": "SSH",
+    "SubStream": "Sociology"
+  },
+  {
+    "CourseTitle": "Contemporary India: Sociological Perspective",
+    "Difficulty": "Advanced",
+    "Stream": "SSH",
+    "SubStream": "Sociology"
+  },
+  {
+    "CourseTitle": "Theatre Appreciation",
+    "Difficulty": "Beginner",
+    "Stream": "SSH",
+    "SubStream": "Arts"
+  },
+  {
+    "CourseTitle": "Indian Poetry Through the Ages",
+    "Difficulty": "Beginner",
+    "Stream": "SSH",
+    "SubStream": "Arts"
+  },
+  {
+    "CourseTitle": "Introduction to Indian Mythology",
+    "Difficulty": "Beginner",
+    "Stream": "SSH",
+    "SubStream": "Arts"
+  },
+  {
+    "CourseTitle": "Introduction To The Study Of Literature",
+    "Difficulty": "Intermediate",
+    "Stream": "SSH",
+    "SubStream": "Arts"
+  },
+  {
+    "CourseTitle": "Introduction To Entrepreneurial Communication",
+    "Difficulty": "Intermediate",
+    "Stream": "SSH",
+    "SubStream": "Entrepreneurship"
+  },
+  {
+    "CourseTitle": "Entrepreneurial Khichdi",
+    "Difficulty": "Intermediate",
+    "Stream": "SSH",
+    "SubStream": "Entrepreneurship"
+  },
+  {
+    "CourseTitle": "Life Skills",
+    "Difficulty": "Intermediate",
+    "Stream": "SSH",
+    "SubStream": "Practical Skills"
+  }
+]
